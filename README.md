@@ -1,2 +1,3 @@
-# LuxProject
-The Lux Projects    Author: Dorothy Mary Waithira Kamau
+Customer Churn
+
+Author: Dorothy Mary Waithira Kamau
